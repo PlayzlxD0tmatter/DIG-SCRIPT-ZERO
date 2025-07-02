@@ -1,5 +1,3 @@
--- This script is so cool man you just use it more often
-
 local xZ,NB,MX,NYa=table.unpack,getmetatable,type,pairs;
 local Zua,MQa,Cdb,Jra,Wgb,Mib,FNa,Bjb,Wa,oza,iza
 Jra,Wa={[-9385]=-15659,[-3621]=-15659,[31988]=21287,[22513]=-15659,[-15703]=13315,[-4611]=-8637,[-18933]=-9870,[-11739]=8346,[-9015]=7772,[29550]=1703,[-7281]=13315,[-86]=25637,[31211]=13315,[-18522]=-15266,[-7960]=21287,[-30416]=-8637,[8991]=-8637,[30339]=-8637,[-545]=13315,[13878]=-13304},function(kx)
