@@ -1,4 +1,4 @@
--- This script was generated using the MoonVeil Obfuscator v1.3.0 [https://moonveil.cc]
+-- Sorry im to cool
 
 local zv,afa,Ccb,tw=getmetatable,type,pairs,table.unpack;
 local Wl,Cwa,jAb,Zya,Wgb,xvb,bCa,Dib,UAa,Dn,fHb
